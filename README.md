@@ -20,6 +20,7 @@ Tiktok: https://www.tiktok.com/@db_edits61
 
 
 ------------- [ FAKE MARKETPLACE GAMES ] -------------
+
 IMPORTANT: You Can't Set Any Other Dashboard Like Aurora In This Method
 * You Must Have Unbanned KV On Nand
 * Easiest
@@ -35,6 +36,7 @@ IMPORTANT: You Can't Set Any Other Dashboard Like Aurora In This Method
 * Easier (In My Opinion)
 
 ----- IF YOU DOING THIS WITH USB ----
+
 IMPORTANT: USB Must Be Formated To FAT32, You Can Plug In To Xbox360, And Format It
 1. Download Game Iso
 2. Extract .zip with winrar or another
@@ -67,11 +69,17 @@ Aurora: Click System (Back Button), And The IP Will Show Up
 Freestyle 3 Dashboard (FSD3): The IP Will Appear In The Lower Left Corner
 ------------------------------
 How To Find Port, Username And Password?
+
 --- DEFLAUT ---
+
 Aurora: Port:21 Or 2121, Username:xboxftp, Password:xboxftp
+
 Freestyle 3 Dashboard (FSD3): Port:21 Or 2121, Username:xbox, Password:xbox
+
 --- CUSTOM ---
+
 Aurora: Click Settings (Start Button) > Modules > FTP Server, And Assets Will Show Up
+
 Freestyle 3 Dashboard (FSD3): Setup > Settings > System Settings > Security, Here You Can Set Custom Assets
 
 
