@@ -48,6 +48,7 @@ IMPORTANT: USB Must Be Formated To FAT32, You Can Plug In To Xbox360, And Format
 8. Add Content Path In Aurora/FSD3 "USB0\Games"
 9. Reboot Console
 10. Enjoy Your Game :D
+
 BONUS: If You Want, You Can Create Folder "Games" On HDD1 Using XeXMenu And Transfer The Games File Here, You Must Set Path To "HDD1\Games"
 
 ----- IF YOU DOING THIS WITH FTP SERVER ----
@@ -65,7 +66,9 @@ BONUS: If You Want, You Can Create Folder "Games" On HDD1 Using XeXMenu And Tran
 12. Enjoy Your Game :D
 ------------------------------
 How To Find IP?
+
 Aurora: Click System (Back Button), And The IP Will Show Up
+
 Freestyle 3 Dashboard (FSD3): The IP Will Appear In The Lower Left Corner
 ------------------------------
 How To Find Port, Username And Password?
@@ -85,10 +88,10 @@ Freestyle 3 Dashboard (FSD3): Setup > Settings > System Settings > Security, Her
 
 
 ------------- [ FAKE DIGITAL GAMES ] -------------
-* Works With All Dashboards (Original Too)
-* Harder (In My Opinion)
 
 IMPORTANT: USB Must Be Formated To FAT32, You Can Plug In To Xbox360, And Format It
+* Works With All Dashboards (Original Too)
+* Harder (In My Opinion)
 1. Download Game Iso
 2. Extract .zip with winrar or another
 3. Using Iso2God Change Name Of The Game (For Example From "{c2}" To "Call Of Duty 2"), That Name Will Display On Your Xbox 360 Games List
