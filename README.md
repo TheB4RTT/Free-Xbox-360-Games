@@ -1,13 +1,17 @@
 # Free-Xbox-360-Games
 
-IMPORTANT: If Your Using xbGuard, Dont Download Proto, This Will Crash Your Xbox 360
-WARNING: If You Wanna Play With This Games On Xbox Live, Use xbGuard Or Proto 
-WARNING: If You Wanna Connect With The Internet On Aurora Or FSD3, Use Stealth Server, Or You Get Ban By Microsoft
+## IMPORTANT: If Your Using xbGuard, Dont Download Proto, This Will Crash Your Xbox 360
+
+## WARNING: If You Wanna Play With This Games On Xbox Live, Use xbGuard Or Proto 
+
+##WARNING: If You Wanna Connect With The Internet On Aurora Or FSD3, Use Stealth Server, Or You Get Ban By Microsoft
 ------------------------------
 Free Games Iso Download Link: https://myrient.erista.me/files/Redump/Microsoft%20-%20Xbox%20360/
 ------------------------------
 Works On Modded Or Exploited Console
+
 Mods/Exploits Working: RGH, Jtag, Badupdate
+
 If You Want, You Can Use Same USB Thats For Badupdate
 ------------------------------
 Author: TheB4RT, mefistaszek
