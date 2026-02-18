@@ -65,13 +65,14 @@ BONUS: If You Want, You Can Create Folder "Games" On HDD1 Using XeXMenu And Tran
 11. Reboot Console
 12. Enjoy Your Game :D
 ------------------------------
-How To Find IP?
+# How To Find IP?
 
 Aurora: Click System (Back Button), And The IP Will Show Up
 
 Freestyle 3 Dashboard (FSD3): The IP Will Appear In The Lower Left Corner
+
 ------------------------------
-How To Find Port, Username And Password?
+# How To Find Port, Username And Password?
 
 --- DEFLAUT ---
 
